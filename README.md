@@ -6,4 +6,5 @@ Nikeerss adalah layanan yang bergerak dalam bidang penjualan sepatu, pakaian, da
 
 `MEMBAWA INSPIRASI DAN INOVASI KE SETIAP ATLET DALAM DUNIA`
 
-##### Jika Anda memiliki tubuh, Anda adalah seorang atlet
+- Jika Anda memiliki tubuh,
+  - Anda adalah seorang atlet
